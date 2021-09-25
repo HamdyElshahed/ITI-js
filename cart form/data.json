@@ -1,0 +1,277 @@
+{
+    "mobile" : [
+        [
+            {
+                "name" : "Samsung Galaxy J7",
+                "price" :"$200.00",
+                "img" : "../images/1.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy A32",
+                "price" :"$4,099.00",
+                "img" : "../images/samsung-galaxy-a32-1.jpg"
+            },
+            {
+                "name" : "Samsung S20 Ultra",
+                "price" :"$7,099.00",
+                "img" : "../images/Samsung S20 Ultra.jpg"
+            },
+            {
+                "name" : "Samsung A12",
+                "price" :"$2,799.00",
+                "img" : "../images/samsung-a12-ss.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy A22 ",
+                "price" :"$3,899.00",
+                "img" : "../images/samsung-galaxy-a22.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy S20 FE ",
+                "price" :"$8,999.00",
+                "img" : "../images/Samsung-Galaxy-S20FE.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy A525s",
+                "price" :"$7,349.00",
+                "img" : "../images/Samsung-Galaxy-a525s.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy A72",
+                "price" :"$7,579.00",
+                "img" : "../images/Samsung-Galaxy-A72.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy M12",
+                "price" :"$2,649.00",
+                "img" : "../images/Samsung-Galaxy-M12.jpg"
+            }
+        ],
+        [
+            {
+                "name" : "iPhone 12 Pro max",
+                "price" :"$25,499.00",
+                "img" : "../images/Apple iPhone 12 Pro max.jpg"
+            },
+            {
+                "name" : "iPhone 12 Pro (256)",
+                "price" :"$22,849.00",
+                "img" : "../images/Apple iPhone 12 Pro 256.jpg"
+            },
+            {
+                "name" : "iPhone 12 Pro (128)",
+                "price" :"$20,999.00",
+                "img" : "../images/Apple iPhone 12 Pro.jpg"
+            },
+            {
+                "name" : "iPhone 12 (128)",
+                "price" :"16,499.00",
+                "img" : "../images/iPhone-12-128.jpg"
+            },
+            {
+                "name" : "iPhone 12 (64)",
+                "price" :"$14,999.00",
+                "img" : "../images/iPhone-12-64.jpg"
+            },
+            {
+                "name" : "iPhone 11",
+                "price" :"$12,749.00",
+                "img" : "../images/iPhone 11.jpg"
+            }
+        ],
+        [
+            {
+                "name" : "xiaomi 1",
+                "price" :"$10,499.00",
+                "img" : "../images/Apple iPhone 12 Pro max.jpg"
+            },
+            {
+                "name" : "xiaomi 2",
+                "price" :"$9,849.00",
+                "img" : "../images/iPhone-12-128.jpg"
+            },
+            {
+                "name" : "xiaomi 3",
+                "price" :"$5,999.00",
+                "img" : "../images/Samsung-Galaxy-M12.jpg"
+            },
+            {
+                "name" : "xiaomi 4",
+                "price" :"6,499.00",
+                "img" : "../images/Samsung-Galaxy-a525s.jpg"
+            },
+            {
+                "name" : "xiaomi 5",
+                "price" :"$8,999.00",
+                "img" : "../images/samsung-galaxy-a22.jpg"
+            },
+            {
+                "name" : "xiaomi 6",
+                "price" :"$749.00",
+                "img" : "../images/Apple iPhone 12 Pro 256.jpg"
+            }
+        ],
+        [
+            {
+                "name" : "poco 1",
+                "price" :"$10,499.00",
+                "img" : "../images/Samsung S20 Ultra.jpg"
+            },
+            {
+                "name" : "poco 2",
+                "price" :"$9,849.00",
+                "img" : "../images/iPhone 11.jpg"
+            },
+            {
+                "name" : "poco 3",
+                "price" :"$5,999.00",
+                "img" : "../images/Apple iPhone 12 Pro max.jpg"
+            },
+            {
+                "name" : "poco 4",
+                "price" :"6,499.00",
+                "img" : "../images/Samsung S20 Ultra.jpg"
+            },
+            {
+                "name" : "poco 5",
+                "price" :"$8,999.00",
+                "img" : "../images/Apple iPhone 12 Pro.jpg"
+            },
+            {
+                "name" : "poco 6",
+                "price" :"$749.00",
+                "img" : "../images/Samsung-Galaxy-S20FE.jpg"
+            }
+        ]
+    ],
+    "lap":[
+        [
+            {
+                "name" : "Dell-G3 3500 (i5)",
+                "price" :"$14,599.00",
+                "img" : "../images/dellg3.jpg"
+            },
+            {
+                "name" : "Dell-G3 3500 (i7)",
+                "price" :"$21,199.00",
+                "img" : "../images/dellg3i7.jpg"  
+            },
+            {
+               
+                "name" : " Dell Vostro 3500",
+                "price" :"$10,199.00",
+                "img" : "../images/Dell-Vostro 3500.jpg"
+            },
+            {
+                "name" : " Dell E0004",
+                "price" :"$12,199.00",
+                "img" : "../images/dellE0004.jpg"
+            },
+            {
+                
+                "name" : "DELL Inspiron 3501",
+                "price" :"$8,199.00",
+                "img" : "../images/DELL-Inspiron 3501.jpg"
+            },
+            {
+                "name" : "Dell G15- 5510",
+                "price" :"$20,099.00",
+                "img" : "../images/Dell-G15- 5510.jpg"        
+            }
+        ],
+        [
+            {
+                "name" : "HP Pavilion15 cs3039ne",
+                "price" :"$15,599.00",
+                "img" : "../images/HP-Pavilion15-cs3039ne.jpg"
+            },
+            {
+                "name" : "HP Pavilion 16 a0021ne",
+                "price" :"$15,999.00",
+                "img" : "../images/HP Pavilion Gaming 16.jpg"  
+            },
+            {
+                "name" : " HP ENVY 13-ba1020ne",
+                "price" :"$15,999.00",
+                "img" : "../images/HP-ENVY 13-ba1020ne.jpg"
+               
+            }
+        ],
+        [
+            {
+                "name" : "HP Pavilion15 cs3039ne",
+                "price" :"$15,599.00",
+                "img" : "../images/HP-Pavilion15-cs3039ne.jpg"
+            },
+            {
+                "name" : "HP Pavilion 16 a0021ne",
+                "price" :"$15,999.00",
+                "img" : "../images/HP Pavilion Gaming 16.jpg"  
+            },
+            {
+                "name" : " HP ENVY 13-ba1020ne",
+                "price" :"$15,999.00",
+                "img" : "../images/HP-ENVY 13-ba1020ne.jpg"
+               
+            }
+        ]
+    ],
+    "pri":[
+        [
+            {
+                "name" : "print 1",
+                "price" :"$1,599.00",
+                "img" : "../images/pr6.jpg"
+            },
+            {
+                "name" : "print 2",
+                "price" :"$1,599.00",
+                "img" : "../images/pr2.jpg"
+            },
+            {
+                "name" : "print 3",
+                "price" :"$1,599.00",
+                "img" : "../images/pr3.jpg"
+            }
+          
+        ],
+        [
+            {
+                "name" : "print 4",
+                "price" :"$1,599.00",
+                "img" : "../images/pr4.jpg"
+            },
+            {
+                "name" : "print 5",
+                "price" :"$1,599.00",
+                "img" : "../images/pr6.jpg"
+                
+            },
+            {
+                "name" : "print 6",
+                "price" :"$1,599.00",
+                "img" : "../images/pr2.jpg"
+            }
+          
+        ],
+        [
+            {
+                "name" : "print 7",
+                "price" :"$1,599.00",
+                "img" : "../images/pr3.jpg"
+            },
+            {
+                "name" : "print 8",
+                "price" :"$1,599.00",
+                "img" : "../images/pr6.jpg"
+            },
+            {
+                "name" : "pint 9",
+                "price" :"$2,999.00",
+                "img" : "../images/pr4.jpg" 
+            }
+            
+        ]
+    ]
+     
+}

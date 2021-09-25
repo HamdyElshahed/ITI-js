@@ -1,0 +1,115 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.title h1{
+    text-align: center;
+    font-family: 'Italianno', cursive;
+    font-size: 40px;   
+}
+ h1::first-letter{
+     color: #0879c9;
+ }
+  
+.title p {
+    margin-left: 45px;
+    margin-top: 20px;
+    color: red;
+    font-size:  25px ; 
+}
+
+table {
+    margin-top: 20px;
+    width: 80%; 
+ }
+
+ table, td, th {
+        border: 1px solid black;
+}
+
+table td {
+    padding:20px; 
+}
+table thead td{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}  
+table body{
+    background-color:wheat;
+
+}
+
+
+table a {
+    text-decoration: none;
+    color: black;
+}
+ 
+.quality{
+  display: inline-block;
+  margin: auto;
+ }
+ 
+
+ .table .btnlast{
+     border-radius: 50px;
+ }
+
+ .complete{
+     width: 80%;
+ }
+
+ .complete p{
+     margin-top: 15px;
+     color: #0879c9;
+     font-size: 30px;
+     
+ }
+
+ .complete input{
+     margin-top: 15px;
+     padding: 15px;
+     border-top: gray 1px solid;
+     border-left: gray 1px solid;
+     border-right: gray 1px solid;
+     border-bottom: red 1px solid;
+ }
+  form select {
+    border-top: gray 1px solid;
+     border-left: gray 1px solid;
+     border-right: gray 1px solid;
+     border-bottom: red 1px solid;   
+  }
+  .complete .btn {
+      width: 25%;
+      padding: 15px ;
+      font-size: 18px;
+      border-radius: 7px;
+      /* height: 20px; */
+      letter-spacing: 1px;
+      color:white;
+      background-color:#0879c9;
+      
+  }
+   .btn:hover{
+       background-color: rgb(172, 69, 69);
+   }
+
+   .complete .btn-two {
+    width: 25%;
+    padding: 15px ;
+    font-size: 18px;
+    border-radius: 7px;
+    /* height: 20px; */
+    letter-spacing: 1px;
+    color:white;
+    background-color:black;
+   }
+   .btn-two:hover{
+    background-color: rgb(172, 69, 69);
+}
+

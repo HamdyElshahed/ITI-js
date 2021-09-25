@@ -1,0 +1,148 @@
+{
+    "mobile" : [
+        [
+            {
+                "name" : "Samsung Galaxy J7",
+                "price" :"$200.00",
+                "img" : "../../images/1.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy A32",
+                "price" :"$4,099.00",
+                "img" : "../../images/samsung-galaxy-a32-1.jpg"
+            },
+            {
+                "name" : "Samsung S20 Ultra",
+                "price" :"$7,099.00",
+                "img" : "../../images/Samsung S20 Ultra.jpg"
+            },
+            {
+                "name" : "Samsung A12",
+                "price" :"$2,799.00",
+                "img" : "../../images/samsung-a12-ss.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy A22 ",
+                "price" :"$3,899.00",
+                "img" : "../../images/samsung-galaxy-a22.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy S20 FE ",
+                "price" :"$8,999.00",
+                "img" : "../../images/Samsung-Galaxy-S20FE.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy A525s",
+                "price" :"$7,349.00",
+                "img" : "../../images/Samsung-Galaxy-a525s.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy A72",
+                "price" :"$7,579.00",
+                "img" : "../../images/Samsung-Galaxy-A72.jpg"
+            },
+            {
+                "name" : "Samsung Galaxy M12",
+                "price" :"$2,649.00",
+                "img" : "../../images/Samsung-Galaxy-M12.jpg"
+            }
+        ],
+        [
+            {
+                "name" : "iPhone 12 Pro max",
+                "price" :"$25,499.00",
+                "img" : "../../images/Apple iPhone 12 Pro max.jpg"
+            },
+            {
+                "name" : "iPhone 12 Pro (256)",
+                "price" :"$22,849.00",
+                "img" : "../../images/Apple iPhone 12 Pro 256.jpg"
+            },
+            {
+                "name" : "iPhone 12 Pro (128)",
+                "price" :"$20,999.00",
+                "img" : "../../images/Apple iPhone 12 Pro.jpg"
+            },
+            {
+                "name" : "iPhone 12 (128)",
+                "price" :"16,499.00",
+                "img" : "../../images/iPhone-12-128.jpg"
+            },
+            {
+                "name" : "iPhone 12 (64)",
+                "price" :"$14,999.00",
+                "img" : "../../images/iPhone-12-64.jpg"
+            },
+            {
+                "name" : "iPhone 11",
+                "price" :"$12,749.00",
+                "img" : "../../images/iPhone 11.jpg"
+            }
+        ],
+        [
+            {
+                "name" : "xiaomi 1",
+                "price" :"$10,499.00",
+                "img" : "../../images/Apple iPhone 12 Pro max.jpg"
+            },
+            {
+                "name" : "xiaomi 2",
+                "price" :"$9,849.00",
+                "img" : "../../images/iPhone-12-128.jpg"
+            },
+            {
+                "name" : "xiaomi 3",
+                "price" :"$5,999.00",
+                "img" : "../../images/Samsung-Galaxy-M12.jpg"
+            },
+            {
+                "name" : "xiaomi 4",
+                "price" :"6,499.00",
+                "img" : "../../images/Samsung-Galaxy-a525s.jpg"
+            },
+            {
+                "name" : "xiaomi 5",
+                "price" :"$8,999.00",
+                "img" : "../../images/samsung-galaxy-a22.jpg"
+            },
+            {
+                "name" : "xiaomi 6",
+                "price" :"$749.00",
+                "img" : "../../images/Apple iPhone 12 Pro 256.jpg"
+            }
+        ],
+        [
+            {
+                "name" : "poco 1",
+                "price" :"$10,499.00",
+                "img" : "../../images/Samsung S20 Ultra.jpg"
+            },
+            {
+                "name" : "poco 2",
+                "price" :"$9,849.00",
+                "img" : "../../images/iPhone 11.jpg"
+            },
+            {
+                "name" : "poco 3",
+                "price" :"$5,999.00",
+                "img" : "../../images/Apple iPhone 12 Pro max.jpg"
+            },
+            {
+                "name" : "poco 4",
+                "price" :"6,499.00",
+                "img" : "../../images/Samsung S20 Ultra.jpg"
+            },
+            {
+                "name" : "poco 5",
+                "price" :"$8,999.00",
+                "img" : "../../images/Apple iPhone 12 Pro.jpg"
+            },
+            {
+                "name" : "poco 6",
+                "price" :"$749.00",
+                "img" : "../../images/Samsung-Galaxy-S20FE.jpg"
+            }
+        ]
+    ]
+     
+}

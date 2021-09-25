@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/styleser.css">
+    <link rel="stylesheet" href="css/all.css">
+    <link rel="icon" href="img/logo2.png">
+    <title>login</title>
+    
+</head>
+<body>
+   
+    <body>
+        <header class="header">
+            <!--logo-->
+            <div class="nav-1">
+              <div class="logo">
+                  <h1>
+                      <a href="#">
+                      <img src="img/logo2.png">
+                      Electro Store
+                      </a>
+                  </h1>
+              </div>
+
+              <div class="search-bar">
+                  <input type="search" class="search" placeholder="Search">
+                  <button class="search-btn">Search</button>
+              </div>
+              <div class="cart">
+                  <button class="cart-btn" ><img src="img/cart.png"> </button>
+              </div> 
+            </div>
+            <!-- search-bar -->
+            <nav id="nav">
+
+                <select class="category">
+                    <option value="">All Categories</option>
+                    <option>Televetion</option>
+                    <option>Mobile</option>
+                    <option>Computer</option>
+                    <option>Headphones</option>
+                    <option>Camera</option>
+                    <option>Electronics</option>
+
+                </select>
+
+                <ui class="nav-links">
+                    <li class="selected"><a href="index.html">Home</a></li>
+                    <li><a href="mobile/index.html">Mobile</a></li>
+                    <li><a href="lap/index.html">Laptop</a></li>
+                    <li><a href="printer/index.html">Printer</a></li>
+                    <li ><a href="#" class="Btn">Log in</a></li>
+                </ui>
+
+            </nav>
+        </header>
+        <body>
+            <!-----------main content------->
+            <div class="account-page">
+                <div class="container">
+                    <div class="row">
+                     
+                        <div class="col-2">
+                       <img src="img/sum.jpg" alt="" width="100%">
+                      </div>
+
+                      <div class="col-2">
+                          <div class="form-container">
+                              <div class="form-btn">
+                                  <span onclick="login()">Login</span>
+                                  <span onclick="register()">Register</span>
+                                  <hr id="line">
+                              </div>
+                              <form id="loginform" action="index.html">
+                                  <input type="text" placeholder="Username"required >
+                                  <input type="password" placeholder="Password" required >
+                                  <input type="submit" value="Login" class="Btn">
+                                  <span id="msg1"></span>
+
+                               </form>
+
+                              <form id="regform" action="index.html">
+                                <input type="text" placeholder="Username" required >
+                                <input type="email" placeholder="Email" required >
+                                <input type="password" placeholder="Password" required>
+                                <input type="submit" value="Register" class="Btn">
+                                <span id="msg2"></span>
+                              </form>
+
+                          </div>
+
+                      </div>
+                    
+                    </div>
+                </div>
+            </div>
+
+
+
+             <!--foot containt-->
+        <footer >
+            <div style="width: 23%;">
+                <h3> Categories</h3>
+                <ul> 
+                    <li href="#">Mobiles</li>
+                    <li href="#">Computers</li>
+                    <li href="#">TV, Audio</li>
+                    <li href="#">Smartphones</li>
+                    <li href="#">Washing Machines</li>
+                    <li href="#">Refrigerators</li>
+                </ul>
+            </div>
+            <div style=" width: 23%;" >
+                <h3> Quick Links</h3>
+                <ul> 
+                    <li href="#"> About Us</li>
+                    <li ref="#">Contact Us</li>
+                    <li href="#">Help</li>
+                    <li href="#">Faqs</li>
+                    <li href="#">Terms of use</li>
+                    <li href="#">Privacy Policy</li>
+                </ul>
+            </div>
+            <div style="width: 23%;" >
+                <h3> Get in Touch</h3>
+                <ul> 
+                    <li href="#">123 Sebastian, USA.</li>
+                    <li href="#"> 333 222 3333</li>
+                    <li href="#"> +222 11 4444</li>
+                    <li href="#"> mail 1@example.com</li>
+                    <li href="#">mail 2@example.com</li>
+                </ul>
+            </div>
+            <div style="width: 23%;" >
+                <h3> Newsletter</h3>
+                <p> Free Delivery on your first order!</p>
+                <input type="email" placeholder="Email"> <button type="submit">Go</button>
+                <h3> Follow Us on</h3>
+                <div style="display: flex;">
+                    <a class="footericon" style="background-color: #3564c9;"><i class="fab fa-facebook-square"></i></a>
+                    <a class="footericon" style="background-color: #2AA9E0;"><i class="fab fa-twitter"></i></a>
+                    <a class="footericon" style="background-color: #BB4638;"><i class="fab fa-google-plus-g"></i></a>
+                </div>
+        
+            </div>
+            
+        </footer>
+        <div class="fot">
+           <p>© 2018 Electro Store. All rights reserved | Design by W3layouts.</p> 
+        
+        </div>
+        
+                <script src="js/all.js"></script>
+                <script src="js/login.js"></script>
+        </body>
+        </html>
+</body>
+</html>
